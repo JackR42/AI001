@@ -1,3 +1,3 @@
 # AI001
 
-AI
+[DevContainer Config](https://github.com/microsoft/vscode-remote-try-sqlserver/tree/main/.devcontainer)

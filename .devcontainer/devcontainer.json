@@ -1,6 +1,0 @@
-{
-	"name": "AI001",
-	"dockerComposeFile": "docker-compose.yml",
-	"service": "db1",
-	"workspaceFolder": "/workspace"
-}

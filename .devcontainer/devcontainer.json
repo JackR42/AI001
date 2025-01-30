@@ -1,7 +1,6 @@
 {
     "name": "DevContainer42",
     "dockerComposeFile": "docker-compose.yml",
-//    "service": "app", // Your main application service
     "workspaceFolder": "/workspace",
     "shutdownAction": "stopCompose",
     "extensions": [

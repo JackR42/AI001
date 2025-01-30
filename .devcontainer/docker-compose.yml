@@ -1,14 +1,6 @@
 version: '3.8'
 
 services:
-#  app:
-#    image: your-app-image # Replace with your application image
-#   volumes:
-#      - .:/workspace
-#    depends_on:
-#      - sqlserver1
-#      - sqlserver2
-
   sqlserver1:
     image: mcr.microsoft.com/mssql/server:latest
     environment:
